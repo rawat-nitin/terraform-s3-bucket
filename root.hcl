@@ -1,4 +1,5 @@
 # Beware: Root level terragrunt
+# terraform-s3-bucket/root.hcl
 locals {
   region = "ap-northeast-1"
 }
