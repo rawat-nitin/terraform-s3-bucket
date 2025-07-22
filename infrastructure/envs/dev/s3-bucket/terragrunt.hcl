@@ -15,6 +15,4 @@ inputs = {
     Owner       = "nitin"
     Project     = "terragrunt-s3-demo"
   }
-  # Terragrunt-only: ephemeral inputs are excluded from the saved plan
-  ephemeral = true
 }
